@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrdk_doc=self.webpackChunkrdk_doc||[]).push([[2634],{192:(c,o,s)=>{s.r(o),s.d(o,{default:()=>t});var e=s(6540),r=s(6347),n=s(4586);const t=function(){const c=(0,r.W6)(),{i18n:o}=(0,n.A)();return console.log(o.currentLocale),(0,e.useEffect)(()=>{"zh-Hans"===o.currentLocale?c.push("/tros_x_doc/tros"):c.push("/tros_x_doc/en/tros")},[c]),null}}}]);
